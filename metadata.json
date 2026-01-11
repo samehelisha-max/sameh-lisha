@@ -1,0 +1,5 @@
+{
+  "name": "Cinematique Watchlist",
+  "description": "An elegant movie watchlist application that automatically fetches posters and details using Gemini AI. Manage your must-watch movies with style.",
+  "requestFramePermissions": []
+}
